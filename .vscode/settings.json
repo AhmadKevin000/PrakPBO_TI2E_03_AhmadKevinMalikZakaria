@@ -1,8 +1,12 @@
 {
     "java.project.sourcePaths": [
         "src",
+        "P3/Tugas",
+        "P3/MotorEncapsulation",
+        "P3/KoperasiGetterSetter",
+        "P2",
         "P1",
-        "P2"
+        "P3"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
