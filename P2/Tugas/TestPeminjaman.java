@@ -2,6 +2,8 @@ package Tugas;
 
 import java.util.Scanner;
 
+import Peminjaman;
+
 public class TestPeminjaman {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
